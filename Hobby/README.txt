@@ -1,0 +1,1 @@
+All hobby projects are on GitHub in other repos. https://github.com/aristosathens
