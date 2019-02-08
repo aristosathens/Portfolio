@@ -1,1 +1,0 @@
-This folder contains COPIES of files from other folders. Do not move files here, just copy them.
