@@ -1,0 +1,1 @@
+This folder does not contain code, data, or anything else that is proprietary or in any other way private. This folder also omits all work aristos did while at [Deepcell](https://deepcellbio.com/).
