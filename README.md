@@ -47,13 +47,13 @@ While at Stanford Aristos has worked on dozens of projects, but these are his fa
 ##### [Convolutional Neural Networks for Visual Recognition (CS 231N)](https://github.com/aristosathens/Portfolio/tree/master/School/Convolutional%20Neural%20Networks%20for%20Image%20Segmentation)
 For our final project we developed and trained an architecture for semantic image segmantation. We used a Baidu dataset consisting of images taken from the dash of a moving vehicle.
 
-##### [Smart Product Design Applications (ME 218B)](https://github.com/aristosathens/Portfolio/tree/master/School/Semi-Autonomous%20Robot):
+##### [Smart Product Design Applications (ME 218B)](https://github.com/aristosathens/Portfolio/tree/master/School/Semi-Autonomous%20Robot)
 For our final project we designed and constructed a fully autonomous robot to compete against other robots in a game similar to hockey/basketball. We made a [website](https://me218risingedgedwellerss.weebly.com/).
 
 ### Hobby
 Aristos has worked on a number of hobby projects, but these are the ones that stand out.
 
-##### [Alias for CMD](https://github.com/aristosathens/Windows_Alias):
+##### [Alias for CMD](https://github.com/aristosathens/Windows_Alias)
 A finished CLI tool for adding/removing/organizing command line aliases.
 
 ##### [Event-Driven Framework](https://github.com/aristosathens/Event_Driven_Framework)
