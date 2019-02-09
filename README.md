@@ -1,19 +1,17 @@
 # Portfolio
 
-Please look in the repo for a copy of Aristos' resume.
+**Please look in the repo for a copy of Aristos' resume.**
 
-### Bio: 
+### Bio
 Aristos was born in Texas, but has spent most of his life in California. As you may have guessed, one of his parents is Greek from Cyprus. He is fluent in English and Greek, and dabbles in Spanish. Outside of school and his projects, Aristos enjoys reading and watching the English Premier League.
 
 Aristos is currently a graduate student at Stanford University. His degree is in Mechanical Engineering, specializing in Robotics. He received his BS from Stanford, also in Mechanical Engineering. He was initially planning on pursuing a PhD, but towards the end of undergrad he caught the CS bug. He then switched his degree focus to mechatronics/robotics, and began working on side projects to make up for lost time.
 
 In April 2019 Aristos will begin full-time work at [Verkada](https://www.verkada.com/) as a Software Engineer.
 
-### Social Media: [LinkedIn](https://www.linkedin.com/in/aristos-athens-3a2635102), [Twitter](https://twitter.com/AristosAthens), [GitHub](https://github.com/aristosathens)
+**Links: [LinkedIn](https://www.linkedin.com/in/aristos-athens-3a2635102), [Twitter](https://twitter.com/AristosAthens), [GitHub](https://github.com/aristosathens)**
 
-# Projects
-
-## Work
+### Work
 These are the work projects that Aristos is *allowed to share publicly*. This omits all of the work he did while at [Deepcell](https://deepcellbio.com/). These folders also omit all proprietary code and data as necessary.
 
 ##### [3D Printer](https://github.com/aristosathens/Portfolio/tree/master/Work/3D%20Printer)
@@ -43,21 +41,21 @@ Peer-reviewed journal article:
 Athens AA, Makris EA, Hu JC (2013) Induced Collagen Cross-Links Enhance Cartilage Integration. PLoS ONE 8(4): e60719. doi:10.1371/journal.pone.0060719 See less
 
 
-## School
+### School
 While at Stanford Aristos has worked on dozens of projects, but these are his favorites.
 
-##### [Convolutional Neural Networks for Visual Recognition (CS 231N)](https://github.com/aristosathens/Portfolio/tree/master/School/Convolutional%20Neural%20Networks%20for%20Image%20Segmentation):
+##### [Convolutional Neural Networks for Visual Recognition (CS 231N)](https://github.com/aristosathens/Portfolio/tree/master/School/Convolutional%20Neural%20Networks%20for%20Image%20Segmentation)
 For our final project we developed and trained an architecture for semantic image segmantation. We used a Baidu dataset consisting of images taken from the dash of a moving vehicle.
 
 ##### [Smart Product Design Applications (ME 218B)](https://github.com/aristosathens/Portfolio/tree/master/School/Semi-Autonomous%20Robot):
 For our final project we designed and constructed a fully autonomous robot to compete against other robots in a game similar to hockey/basketball. We made a [website](https://me218risingedgedwellerss.weebly.com/).
 
-## Hobby
+### Hobby
 Aristos has worked on a number of hobby projects, but these are the ones that stand out.
 
 ##### [Alias for CMD](https://github.com/aristosathens/Windows_Alias):
 A finished CLI tool for adding/removing/organizing command line aliases.
 
-##### [Event-Driven Framework](https://github.com/aristosathens/Event_Driven_Framework):
+##### [Event-Driven Framework](https://github.com/aristosathens/Event_Driven_Framework)
 A framework for building new apps. Parallelizes app modules. 
 
